@@ -1,0 +1,13 @@
+.rarus_feedbackform form label
+{
+    display: inline-block;
+    min-width: 150px;
+}
+.rarus_feedbackform__row {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+input.error {
+    border: 1px solid #f00;
+}
